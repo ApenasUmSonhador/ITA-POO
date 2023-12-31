@@ -1,5 +1,3 @@
-package tarefaFinal;
-
 public class Inversor implements Embaralhador {
 
 	@Override

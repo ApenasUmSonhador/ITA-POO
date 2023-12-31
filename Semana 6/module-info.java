@@ -1,0 +1,4 @@
+
+module jogoDasPalavrasEmbaralhadas {
+	requires junit;
+}

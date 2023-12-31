@@ -1,5 +1,3 @@
-package tarefaFinal;
-
 public class EmpurraLetra implements Embaralhador {
 
 	@Override
